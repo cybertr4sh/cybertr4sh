@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zerrr0
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning bug bounty
+- 🌱 I’m currently learning...
 
 <!---
 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
